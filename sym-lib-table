@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Connector_PCIEX1)(type Legacy)(uri ${KIPRJMOD}/Connector_PCIEX1.lib)(options "")(descr ""))
+)
