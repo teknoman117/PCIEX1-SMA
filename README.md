@@ -5,9 +5,13 @@ Adapts a PCIe x1 slot into 6 SMA connectors (REFCLK, TX, and RX differential pai
 Imagined use case is adapting the Crosslink-NX Evaluation Board into a PCIe capable board by installing the missing SMA connectors and providing an adapter board to an actual PCIe connector.
 
 ![Picture](/Assets/PCIEX1-SMA.png)
-![Assembled](/Assets/Assembled.jpg)
-![FPGA](/Assets/Lattice-Crosslink-NX-EVN.jpg)
 
 ## License
 
 CC-BY-SA 4.0
+
+## Assembled
+![Assembled](/Assets/Assembled.jpg)
+![FPGA](/Assets/Lattice-Crosslink-NX-EVN.jpg)
+
+
